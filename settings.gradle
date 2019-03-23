@@ -1,0 +1,5 @@
+include ':app', ':baselibrary'
+
+include ':myloginmodule'
+include ':myminemodule'
+
