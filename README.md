@@ -8,11 +8,11 @@
             compileSdkVersion: 28,    
             buildToolsVersion: "28.0.3",    
             minSdkVersion    : 19,    
-             targetSdkVersion : 28,    
-              versionCode      : 1,      
-              versionName      : "1.0"     
+            targetSdkVersion : 28,    
+            versionCode      : 1,      
+            versionName      : "1.0"     
       ]  
-  //  修改false（true）    
+  //  修改false（true）         
       login =false    
       mine=false    
   }    
